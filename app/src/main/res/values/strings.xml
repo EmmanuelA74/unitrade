@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Uni-Trade</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="tagline1">"Your. Sustainable. Campus. Marketplace."</string>
+    <string name="create_account">"Create an account"</string>
+    <string name="login_account">"Login to your account"</string>
+    <string name="login">"Login"</string>
+    <string name="signup">"Sign Up"</string>
+    <string name="username">"Username"</string>
+    <string name="logout">"Logout</string>
+    <string name="sell">"Sell an item"</string>
+    <string name="browse">"Browse Listings"</string>
+    <string name="home">"Home"</string>
+    <string name="search">"Search"</string>
+    <string name="messages">"Messages"</string>
+    <string name="account">"Account"</string>
+    <string name="createListing">"Create Listing"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="condition">
+        <item>New</item>
+        <item>Mint</item>
+        <item>Good</item>
+        <item>Fair</item>
+        <item>Bad</item>
+    </string-array>
+
+    <string name="itemCondition">"Choose Item Condition"</string>
+    <string name="deliveryType">"Choose Delivery Type"</string>
+    <string name="delivery">"Delivery"</string>
+    <string name="pickup">"Pickup"</string>
+    <string name="buy">"Buy Item"</string>
+    <string name="name">"Name"</string>
+    <string name="condition">"Condition"</string>
+    <string name="description">"Description"</string>
+    <string name="price">"Price"</string>
+    <string name="deliveryType2">"Delivery Type"</string>
+    <string name="pay">"Pay"</string>
+    <string name="messageSeller">"Message Seller"</string>
+    <string name="addtocart">"Add to Cart"</string>
+    <string name="signout">"Sign Out"</string>
+    <string name="review">"Review"</string>
+
+
+</resources>

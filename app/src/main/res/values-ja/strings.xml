@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ユニトレード</string>
+    <string name="title_activity_login">ログインアクティビティ</string>
+    <string name="prompt_email">メール</string>
+    <string name="prompt_password">パスワード</string>
+    <string name="action_sign_in">ログインするか、登録する</string>
+    <string name="action_sign_in_short">ログイン</string>
+    <string name="welcome">ようこそ！</string>
+    <string name="invalid_username">無効なユーザー名</string>
+    <string name="invalid_password">パスワードは5文字以上である必要があります</string>
+    <string name="login_failed">ログインに失敗しました</string>
+    <string name="tagline1">あなたの。持続可能な。キャンパス。マーケットプレイス。</string>
+    <string name="create_account">アカウントを作成する</string>
+    <string name="login_account">アカウントにログインする</string>
+    <string name="login">ログイン</string>
+    <string name="signup">サインアップ</string>
+    <string name="username">ユーザー名</string>
+    <string name="logout">ログアウト</string>
+    <string name="sell">アイテムを売る</string>
+    <string name="browse">リストを閲覧する</string>
+    <string name="home">ホーム</string>
+    <string name="search">検索</string>
+    <string name="messages">メッセージ</string>
+    <string name="account">アカウント</string>
+    <string name="createListing">リストを作成する</string>
+    <string name="hello_blank_fragment">こんにちは、ブランクフラグメント</string>
+
+    <string-array name="condition">
+        <item>新品</item>
+        <item>ほぼ新品</item>
+        <item>良い</item>
+        <item>普通</item>
+        <item>悪い</item>
+    </string-array>
+
+    <string name="itemCondition">商品の状態を選択してください</string>
+    <string name="deliveryType">配送方法を選択してください</string>
+    <string name="delivery">配送</string>
+    <string name="pickup">受け取り</string>
+    <string name="buy">商品を購入する</string>
+    <string name="name">名前</string>
+    <string name="condition">状態</string>
+    <string name="description">説明</string>
+    <string name="price">価格</string>
+    <string name="deliveryType2">配送方法</string>
+    <string name="pay">支払う</string>
+    <string name="messageSeller">出品者にメッセージを送る</string>
+    <string name="addtocart">カートに追加</string>
+    <string name="signout">ログアウト</string>
+    <string name="review">レビュー</string>
+</resources>

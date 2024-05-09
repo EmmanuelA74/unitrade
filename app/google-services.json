@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "751141226848",
+    "project_id": "uni-trade-51da4",
+    "storage_bucket": "uni-trade-51da4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751141226848:android:8f6f818a5e3b053cea7605",
+        "android_client_info": {
+          "package_name": "com.example.unitrade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9eatxBuaUbEXrGCW3Yt4rmy-yoDpo11A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
